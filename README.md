@@ -1,6 +1,5 @@
+![myfile](https://media.giphy.com/media/ptAQ6klu48wZS266bG/giphy.gif)
 <p align="center">
-![myfile](https://media.giphy.com/media/ZhBM5wIx5uZw8jlRyt/giphy.gif)
-
 ## I'm a Student, Youtuber, Developer, and GameDeveloper!!
 
 - 🌱 I’m currently learning everything 🤣
