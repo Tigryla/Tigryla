@@ -1,4 +1,4 @@
-### Hi there, I'm Vladimir - aka [TIGRYLA][website] 👋 
+<p align="center">
 ![myfile](https://media.giphy.com/media/ZhBM5wIx5uZw8jlRyt/giphy.gif)
 
 ## I'm a Student, Youtuber, Developer, and GameDeveloper!!
@@ -48,29 +48,4 @@
 - [STACKr News Weekly: We Like Dislikes 😍, No coding tech roles 👨‍💻, Quantum attacks Crypto 🚨](https://www.youtube.com/watch?v=ByzuWuziB2A)
 - [STACKr News Weekly: Learn to code FAST ⚡, Choose a DB in 9.49 min ⌛, BEST Blog app with React ⚛](https://www.youtube.com/watch?v=KZGzo0bkiLY)
 <!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
-[website]: https://codeSTACKr.com
-[youtube]: https://www.youtube.com/channel/UC7dizwEZqVL8o6tpq5Hpeyw
-[instagram]: https://www.instagram.com/voldemar_artemenko
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+</p>
