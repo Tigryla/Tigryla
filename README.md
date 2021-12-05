@@ -1,4 +1,4 @@
-![myfile](https://raw.githubusercontent.com/Tigryla/Tigryla/main/VladimirArtemenko.gif)
+![myfile](https://raw.githubusercontent.com/Tigryla/Tigryla/main/profile.gif)
 <p align="center">
 ## I'm a Student, Youtuber, Developer, and GameDeveloper!!
 
