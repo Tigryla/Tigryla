@@ -1,9 +1,8 @@
 ### Hi there, I'm Vladimir - aka [TIGRYLA][website] 👋 
-![myfile](https://user-images.githubusercontent.com/52455330/139071980-91302a8a-37b1-4196-803e-f91b1de2ee5b.gif)
+![myfile](https://media.giphy.com/media/ZhBM5wIx5uZw8jlRyt/giphy.gif)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Youtuber, Developer, and GameDeveloper!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
