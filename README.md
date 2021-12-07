@@ -21,12 +21,6 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/svg+xml-original.svg" width="48" height="48" alt="svg+xml" />
-      </a>
-      <br>SVG+XML
-    </td>
-    <td align="center" width="96">
-      <a href="#">
         <img src="./img/php-original.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
@@ -38,28 +32,34 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      <a href="#" >
+        <img src="./img/markdown-original.svg" width="48" height="48" alt="Markdown" />
       </a>
-      <br>React
+      <br>Markdown
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      <a href="#">
+        <img src="./img/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       </a>
-      <br>Bootstrap
+      <br>Node.js
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+      <a href="#">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Sass
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#
     </td>
   </tr>
   <tr>
@@ -104,6 +104,12 @@
         <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Prometheus
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
