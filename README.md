@@ -26,10 +26,10 @@
       <br>SVG+XML
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      <a href="#">
+        <img src="./img/php-original.svg" width="48" height="48" alt="PHP" />
       </a>
-      <br>Jsonnet
+      <br>PHP
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
