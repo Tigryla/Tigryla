@@ -71,7 +71,7 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="sql-original.svg" width="48" height="48" alt="SQL" />
+        <img src="./img/sql-original.svg" width="48" height="48" alt="SQL" />
       </a>
       <br>SQL
     </td>
