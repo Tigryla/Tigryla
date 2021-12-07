@@ -157,7 +157,7 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="./img/nympy-tech.svg" width="48" height="48" alt="NumPy" />
+        <img src="./img/numpy-tech.svg" width="48" height="48" alt="NumPy" />
       </a>
       <br>NumPy
     </td>
