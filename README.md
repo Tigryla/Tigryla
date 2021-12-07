@@ -20,10 +20,10 @@
       <br>CSS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      <a href="#">
+        <img src="./img/svg+xml-original.svg" width="48" height="48" alt="svg+xml" />
       </a>
-      <br>Go
+      <br>SVG+XML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
