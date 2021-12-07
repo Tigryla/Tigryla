@@ -95,25 +95,25 @@
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="" width="48" height="48" alt="" />
+        <img src="./img/null-original.png" width="48" height="48" alt="" />
       </a>
       <br>
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="" width="48" height="48" alt="" />
+        <img src="./img/null-original.png" width="48" height="48" alt="" />
       </a>
       <br>
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="" width="48" height="48" alt="" />
+        <img src="./img/null-original.png" width="48" height="48" alt="" />
       </a>
       <br>
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="" width="48" height="48" alt="" />
+        <img src="./img/null-original.png" width="48" height="48" alt="" />
       </a>
       <br>
     </td>
