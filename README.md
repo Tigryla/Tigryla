@@ -9,15 +9,15 @@
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/html-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/html-original.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      <a href="">
+        <img src="./img/css-original.svg" width="48" height="48" alt="CSS" />
       </a>
-      <br>Python
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
