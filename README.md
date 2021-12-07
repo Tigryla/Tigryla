@@ -62,7 +62,63 @@
       <br>C#
     </td>
   </tr>
-<table>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="./img/svg+xml-original.svg" width="48" height="48" alt="SVG+XML" />
+      </a>
+      <br>SVG+XML
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="sql-original.svg" width="48" height="48" alt="SQL" />
+      </a>
+      <br>SQL
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./img/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./img/cplus-original.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>
+    </td>
+  </tr>
+</table>
 ### <h3 align='center'>Technologies</h3>
 
 
