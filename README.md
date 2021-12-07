@@ -127,83 +127,83 @@
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/html-original.svg" width="48" height="48" alt="HTML" />
+        <img src="./img/arduino-tech.svg" width="48" height="48" alt="Arduino" />
       </a>
-      <br>HTML
+      <br>Arduino
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="./img/css-original.svg" width="48" height="48" alt="CSS" />
+        <img src="./img/bootstrap-tech.svg" width="48" height="48" alt="Bootsrap" />
       </a>
-      <br>CSS
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/php-original.svg" width="48" height="48" alt="PHP" />
+        <img src="./img/debian-tech.svg" width="48" height="48" alt="Debian" />
       </a>
-      <br>PHP
+      <br>Debian
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/electron-tech.svg" width="48" height="48" alt="Electron" />
       </a>
-      <br>TypeScript
+      <br>Electron
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/github-tech.svg" width="48" height="48" alt="Github" />
       </a>
-      <br>JavaScript
+      <br>Github
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="./img/markdown-original.svg" width="48" height="48" alt="Markdown" />
+        <img src="./img/nympy-tech.svg" width="48" height="48" alt="NumPy" />
       </a>
-      <br>Markdown
+      <br>NumPy
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+        <img src="./img/react-tech.svg" width="48" height="48" alt="React" />
       </a>
-      <br>Node.js
+      <br>React
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/vuejs-tech.svg" width="48" height="48" alt="Vue.js" />
       </a>
-      <br>Python
+      <br>Vue.js
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/wordpress-tech.svg" width="48" height="48" alt="WordPress" />
       </a>
-      <br>C#
+      <br>WordPress
     </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
       <a href="#" >
-        <img src="./img/svg+xml-original.svg" width="48" height="48" alt="SVG+XML" />
+        <img src="./img/heroku-tech.svg" width="48" height="48" alt="Heroku" />
       </a>
-      <br>SVG+XML
+      <br>Heroku
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="./img/sql-original.svg" width="48" height="48" alt="SQL" />
+        <img src="./img/mysql-test.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>SQL
+      <br>MySQL
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="./img/java-original.svg" width="48" height="48" alt="Java" />
+        <img src="./img/unity-tech.svg" width="48" height="48" alt="Unity" />
       </a>
-      <br>Java
+      <br>Unity
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="./img/cplus-original.svg" width="48" height="48" alt="C++" />
+        <img src="./img/android-studio-tech.svg" width="48" height="48" alt="Android Studio" />
       </a>
-      <br>C++
+      <br>Android Studio
     </td>
     <td align="center" width="96">
       <a href="#">
