@@ -207,33 +207,33 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/null-original.png" width="48" height="48" alt="" />
+        <img src="./img/jetbrains-tech.svg" width="48" height="48" alt="JetBrains" />
       </a>
-      <br>
+      <br>JetBrains
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="./img/null-original.png" width="48" height="48" alt="" />
+        <img src="./img/angular-tech.svg" width="48" height="48" alt="Angular" />
       </a>
-      <br>
+      <br>Angular
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="./img/null-original.png" width="48" height="48" alt="" />
+        <img src="./img/archlinux-tech.svg" width="48" height="48" alt="ArchLinux" />
       </a>
-      <br>
+      <br>Archlinux
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="./img/null-original.png" width="48" height="48" alt="" />
+        <img src="./img/notion-tech.svg" width="48" height="48" alt="Notion" />
       </a>
-      <br>
+      <br>Notion
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="./img/null-original.png" width="48" height="48" alt="" />
+        <img src="./img/mongodb-tech.svg" width="48" height="48" alt="MongoDB" />
       </a>
-      <br>
+      <br>MongoDB
     </td>
   </tr>
 </table>
