@@ -62,8 +62,8 @@
       <br>C#
     </td>
   </tr>
+<table>
+### <h3 align='center'>Technologies</h3>
 
-### <h3 align='center'>Technologies</h2>
 
-
-### <h3 align='center'>Full Stack Projects</h2>
+### <h3 align='center'>Full Stack Projects</h3>
