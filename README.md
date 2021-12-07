@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Make alpha version of my game.
 
-### <h3>Languages</h2>
+### <h3 align='center'>Languages</h2>
